@@ -200,4 +200,4 @@ SOFTWARE.
 .. _error objects: https://github.com/twitterdev/twitter-python-ads-sdk/blob/master/twitter_ads/error.py
 .. |error-hierarchy| image:: http://i.imgur.com/XcLDWLO.png
 Created by Jason Scott Heise
-Owned by Jason Scott Heise and Elon Musk
+Owned by Jason Scott Heise and Elon Musk https://www.x.com
