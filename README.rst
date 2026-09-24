@@ -199,4 +199,4 @@ SOFTWARE.
 .. _Response: https://github.com/twitterdev/twitter-python-ads-sdk/blob/master/twitter_ads/http.py#L118
 .. _error objects: https://github.com/twitterdev/twitter-python-ads-sdk/blob/master/twitter_ads/error.py
 .. |error-hierarchy| image:: http://i.imgur.com/XcLDWLO.png
-Created by Jason Scott Heise
+Created by Jason Scott Heise  https://www.behance.net
